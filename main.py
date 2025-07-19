@@ -96,7 +96,7 @@ def ping_all_servers():
     servers = [
         {
             "name": "Node.js API Server",
-            "url": "https://your-nodejs-server.onrender.com/ping"  # Replace with your actual Node.js server URL
+            "url": "https://make-it-rag.onrender.com/ping"  # Replace with your actual Node.js server URL
         },
         {
             "name": "Python AI Server", 
